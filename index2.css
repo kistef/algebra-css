@@ -1,0 +1,16 @@
+h1 {
+    font-family: 'Playfair Display', serif;
+    background-color: grey;
+    color:honeydew;
+    text-align: center;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: url('pattern.png') center/cover no-repeat fixed,
+    url('fire.png') center 20%/250px no-repeat fixed,
+    url('blossom.jpg') center/cover no-repeat fixed;
+}
+
+
+
