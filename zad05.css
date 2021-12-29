@@ -1,0 +1,9 @@
+
+img {
+    width: 30%;
+    border: 1px grey solid;
+    padding: 20px;
+    box-sizing: content-box;
+    margin: auto;
+    display: block;
+}
